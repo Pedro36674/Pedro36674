@@ -1,5 +1,5 @@
 ## Olá👋, eu sou Pedro Henrique
-
+- ☕ Desenvolvedor FullStack em formação
 - 🌱 Atualmente aprendendo a programar com NodeJS
 - 😄 Pronomes: Ele/Dele
 
@@ -20,7 +20,7 @@
 ![](https://streak-stats.demolab.com/?user=Pedro36674&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pedro36674&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact )
 
-##
+## 🌐 Socials:
 
 <div>
   <a href = "mailto:pedrohenrique25055@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
